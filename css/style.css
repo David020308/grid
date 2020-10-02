@@ -84,8 +84,9 @@ background: purple;
 
 }
 
-.h5 {
+h5 {
     font-family: sans-serif;
+    font-size: 15px;
     margin: 3px;
 }
 
